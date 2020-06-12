@@ -1,6 +1,6 @@
-### o
+### CelebGate
 ---
-
+https://celeb.gate.cc/
 
 ```
 ```
